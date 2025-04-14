@@ -9,6 +9,6 @@ username: ubuntu
 password: ubuntu
 screenshot: ubuntu-20.04-arm64.png
 guide: https://docs.getutm.app/guides/ubuntu/
-download: https://archive.org/download/ubuntu-20.04-arm64-utm/ubuntu-20.04-arm64-utm.zip
-utm_link: true
+download: https://archive.org/details/ubuntu-20.04-arm64-utm
+utm_link: false
 ---

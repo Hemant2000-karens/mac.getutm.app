@@ -9,6 +9,6 @@ username: fedora
 password: fedora
 screenshot: fedora-38-arm64.png
 guide: https://docs.getutm.app/guides/fedora/
-download: https://archive.org/download/fedora-38-arm64-utm/fedora-38-arm64-utm.zip
-utm_link: true
+download: https://archive.org/details/fedora-38-arm64-utm
+utm_link: false
 ---

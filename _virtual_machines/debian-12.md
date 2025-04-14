@@ -8,6 +8,6 @@ spice_installed: true
 username: debian
 password: debian
 screenshot: debian-12-arm64.png
-download: https://archive.org/download/debian-12-arm64-utm/debian-12-arm64-utm.zip
-utm_link: true
+download: https://archive.org/details/debian-12-arm64-utm
+utm_link: false
 ---

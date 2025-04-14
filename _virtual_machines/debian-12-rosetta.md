@@ -9,8 +9,8 @@ username: debian
 password: debian
 screenshot: debian-12-arm64.png
 guide: https://docs.getutm.app/guides/debian/
-download: https://archive.org/download/debian-12-rosetta-arm64-utm/debian-12-rosetta-arm64-utm.zip
-utm_link: true
+download: https://archive.org/details/debian-12-rosetta-arm64-utm
+utm_link: false
 ---
 An Apple Silicon Mac running macOS 12+ is required. This image has Rosetta pre-configured along with amd64 multiarch support installed. To install x86_64 packages, append `:amd64` to the name. For example:
 
