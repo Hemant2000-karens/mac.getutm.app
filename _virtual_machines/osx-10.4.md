@@ -1,13 +1,13 @@
 ---
 title: Mac OS X 10.4 Tiger (PPC)
 architecture: PPC64
-memory: 512 MiB
+memory: 2048 MiB
 disk: 10 GiB
 display: VGA
 spice_installed: false
 username: tiger
 password: tiger
-screenshot: macos-tiger-ppc.png
+screenshot: macos10-4.png
 guide: https://github.com/Hemant2000-karens/vm-downloads
 download: https://github.com/Hemant2000-karens/vm-downloads/releases/download/mac-os-x-10.4/Mac-OS-X-Tiger-10.4.utm.zip
 utm_link: false
